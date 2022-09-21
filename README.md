@@ -1,5 +1,10 @@
 # 💫 About Me:
-🌱 Hi there , I'am Enes Baykal Gürbüz<br>🔭 Retired Senior Software Engineer Student<br>⚡ Fun fact also Software Engineer<br><br>-How can ı reach me : ebaykalgurbuz@gmail.com
+🌱 Hi there , I'am Enes Baykal Gürbüz<br>🔭 Retired Senior Software Engineer Student<br>⚡ Fun fact also Software Engineer<br><br>- 📫 How to reach me **ebaykalgurbuz@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 
 ## 🌐 Socials:
